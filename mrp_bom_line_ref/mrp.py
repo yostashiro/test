@@ -23,3 +23,4 @@ class MrpBomLine(models.Model):
     _inherit = 'mrp.bom.line'
 
     ref = fields.Char('Reference Number')
+
